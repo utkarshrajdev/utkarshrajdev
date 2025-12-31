@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**utkarshrajdev/utkarshrajdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Utkarsh**, a Backend Python Engineer focused on building **scalable, secure, and high-performance systems**.
 
-Here are some ideas to get you started:
+I have **2+ years of hands-on experience** working with Python and Django, optimizing APIs with **Redis caching** and **PostgreSQL indexing**, implementing **RBAC-based security**, and deploying production systems using **Docker and AWS**.  
+At **Adventure Sports Cover 360**, I worked on performance tuning and system hardening. Previously at **Praedico Global**, I implemented **JWT/OAuth2 authentication** and built **real-time dashboards** using WebSockets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Job Portal** – Django + Elasticsearch for fast, relevant job search  
+- **Face Recognition Attendance System** – OpenCV + scikit-learn (~95% accuracy)
+
+### 🛠 Tech Stack
+**Python, Django, FastAPI, PostgreSQL, Redis, Elasticsearch, AWS, Docker, Jenkins, Kubernetes**
+
+### 📈 Highlights
+- **500+ DSA problems solved** on LeetCode, achieved Knight rank.
+- **2nd place** in a Hackathon  
+- Strong focus on **performance, security, and clean backend architecture**
+
+I value **practical engineering over buzzwords** and prefer systems that scale without drama.
