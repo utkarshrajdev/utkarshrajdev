@@ -1,20 +1,65 @@
 ## Hi there 👋
 
-I’m **Utkarsh**, a Backend Python Engineer focused on building **scalable, secure, and high-performance systems**.
+I’m Utkarsh, a Backend Python Engineer focused on building scalable, secure, and maintainable backend systems.
 
-I have **2+ years of hands-on experience** working with Python and Django, optimizing APIs with **Redis caching** and **PostgreSQL indexing**, implementing **RBAC-based security**, and deploying production systems using **Docker and AWS**.  
-At **Adventure Sports Cover 360**, I worked on performance tuning and system hardening. Previously at **Praedico Global**, I implemented **JWT/OAuth2 authentication** and built **real-time dashboards** using WebSockets.
+I primarily work on API-driven architectures, database-backed applications, and background processing systems. My day-to-day work involves designing REST APIs, optimizing database queries, handling async workloads, and deploying services to cloud environments.
 
-### 🚀 Projects
-- **Job Portal** – Django + Elasticsearch for fast, relevant job search  
-- **Face Recognition Attendance System** – OpenCV + scikit-learn (~95% accuracy)
+---
 
-### 🛠 Tech Stack
-**Python, Django, FastAPI, PostgreSQL, Redis, Elasticsearch, AWS, Docker, Jenkins, Kubernetes**
+### 🛠 Skills
 
-### 📈 Highlights
-- **500+ DSA problems solved** on LeetCode, achieved Knight rank.
-- **2nd place** in a Hackathon  
-- Strong focus on **performance, security, and clean backend architecture**
+**Programming Languages**
+- Python
+- SQL
+- JavaScript
+- C++
+- C
 
-I value **practical engineering over buzzwords** and prefer systems that scale without drama.
+**Backend & API Development**
+- Django
+- Django REST Framework (DRF)
+- FastAPI
+- RESTful API design
+- Authentication & Authorization
+- Background jobs and task queues
+
+**Databases & Caching**
+- PostgreSQL
+- Relational database design
+- Indexing & query optimization
+- Redis (caching)
+
+**Async & Realtime**
+- Celery
+- Message-based background processing
+- WebSockets (basic real-time use cases)
+
+**System Design Basics**
+- MVC / layered architecture
+- Pagination, filtering, rate limiting
+- Error handling & logging
+- API versioning
+- Data validation
+
+**DevOps & Deployment**
+- Docker
+- CI/CD fundamentals
+- Linux basics
+- Environment-based configuration
+
+**Cloud Fundamentals**
+- AWS basics (compute, storage, managed databases)
+- Production vs staging environments
+- Monitoring & logs
+
+**Testing & Quality**
+- Unit testing
+- API testing
+- Debugging production issues
+
+---
+
+### 📈 What I Care About
+- Writing code that survives production
+- Reducing latency and failure points
+- Clear, boring, predictable backend systems
